@@ -6,7 +6,7 @@
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	
-	<version>0.0.2-SNAPSHOT</version> 
+	<version>0.0.3-SNAPSHOT</version> 
 	
 	<name>maven-web-application</name>
 
@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.237.170.252:8081/repository/mtnpoip-releases/</url>
+	      <url>http://44.192.41.239:8081/repository/teslajob1-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.237.170.252:8081/repository/mtnpop2-snapshot/</url>
+	      <url>http://44.192.41.239:8081/repository/teslajob2-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
